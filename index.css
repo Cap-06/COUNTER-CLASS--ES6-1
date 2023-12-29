@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+
+}
+h1{
+    text-align: center;
+    font-family: ROG Fonts;
+    color: red;
+}
+p{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    color: blueviolet;
+}
+#countDisplay{
+    font-family: Agency FB;
+
+}
+#Btn{
+    text-align: center;
+    padding: 20px;
+
+}
+#startStopButton,#incrementButton,#decrementButton:hover{
+    cursor: pointer;
+}
+#startStopButton{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 20px;
+}
+#incrementButton{
+  
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 20px;
+}
+#decrementButton{
+
+    background-color:aqua;
+    padding: 10px;
+    border-radius: 20px;
+}
